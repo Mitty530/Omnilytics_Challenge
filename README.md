@@ -1,0 +1,2 @@
+# Omnilytics_Challenge
+Providing hidden pattern on the Omnilytics_Challenge Assess the three trends in trends1.csv, which is performing best. Elaborate on how you defined "best performance". 2. Quantify the performance over the last year - to establish what proportion of demand has changed. 3. Look at the predictions.csv file - there are three fits for each trend, comment on which you find to be best. 4. Quantify these predictions into an assessment of how you would expect the demand to change
